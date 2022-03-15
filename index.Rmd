@@ -8,5 +8,6 @@ description: "This is a recreation of the HIE R Course first chapter in bookdown
 ---
 
 ```{r include=FALSE}
+library(rmarkdown)
 library(bookdown)
 ```
