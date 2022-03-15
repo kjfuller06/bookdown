@@ -1,0 +1,12 @@
+---
+title: "A Learning Guide to R"
+author: "Remko Duursma, Jeff Powell & Glenn Stone"
+output: bookdown::gitbook
+site: bookdown::bookdown_site
+documentclass: book
+description: "This is a recreation of the HIE R Course first chapter in bookdown::gitbook format."
+---
+
+```{r include=FALSE}
+library(bookdown)
+```

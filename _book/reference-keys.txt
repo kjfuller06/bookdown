@@ -1,0 +1,8 @@
+basics
+install
+Rinstall
+useinstall
+baseops
+Rcalc
+scriptmark
+scripts
